@@ -1,0 +1,54 @@
+.FormulaireCorp
+{
+    background-color: #efefef;
+    margin: 1em;
+    border-radius: 0.5em;
+    padding: 1em;
+}
+.FormulaireChamp
+{
+    margin-top: 0.5em !important ;
+}
+
+.FormulaireBouton
+{
+    margin: 1em ;
+    margin-left: 50%;
+    transform: translate(-50%,0%);
+    background-color: #b2d3d1 !important;
+    border: #b2d3d1 !important;
+}
+
+.FormulaireDeleteBouton
+{
+    margin-left: 1em;
+    background-color: #b2d3d1 !important;
+    border: #b2d3d1 !important;
+}
+
+.NameFirstName
+{
+    background-color: #b2d3d1 !important;
+    border: none!important;
+}
+
+.FormulaireChamp label
+{
+    color: #327c78;
+}
+
+.FormulaireChampAnimal
+{
+margin: 1em !important;
+}
+
+.FormulaireChampAnimal label
+{
+    color: #327c78;
+}
+
+.urgente
+{
+    color: #153867;
+    font-weight: bolder;
+}

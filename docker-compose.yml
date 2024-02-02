@@ -1,0 +1,20 @@
+version : '3.4'
+
+services :
+  web:
+    build :
+      context : .
+      target : dev
+    environment:
+      NGINX_VERSION: 1.18.0
+    expose :
+      - "443"
+      - "80"
+    ports :
+      - "8085:433"
+    volumes :
+      - ".:/usr/src/admin/node_modules"
+
+
+volumes:
+  nodes:

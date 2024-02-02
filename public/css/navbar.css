@@ -1,0 +1,19 @@
+.navbar-brand {
+    font-family: 'Gelasio', serif;
+}
+
+.nav-item {
+    font-family: 'Gelasio', serif;
+}
+
+.current {
+    color: white !important;
+}
+
+.color-nav-client {
+  background-color: #23ADA5 !important;
+}
+
+.color-nav-veto {
+  background-color: #23ADA5 !important;
+}

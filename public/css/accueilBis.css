@@ -1,0 +1,38 @@
+.TitreAccueil
+{
+    text-align:center;
+    font-weight: bolder;
+    font-size: x-large;
+    margin: 1em;
+    color: #23ADA5;
+}
+.cardAccueil
+{
+    margin: 0em 1.2em;
+}
+
+.cardAccueilHeader
+{
+    background-color: #b2d3d1!important;
+    color: white!important;
+    font-weight: lighter;
+}
+
+
+.cardAccueilText
+{
+    text-align: center;
+    margin: 1em!important;
+}
+
+.cardGroupeAccueil
+{
+    margin: 1.5em 0em;
+}
+
+.colorAccueil
+{
+    padding: 2em;
+    background-color: #23ADA5;
+
+}

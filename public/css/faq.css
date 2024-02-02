@@ -1,0 +1,20 @@
+html{
+    background: #E4E4E4;
+}
+
+.faq {
+    padding: 1em;
+    background: #E4E4E4;
+
+}
+
+.accordion-item
+{
+    margin-top: 0.5em;
+}
+
+.quest
+{
+    text-align: center;
+    margin: 1em;
+}

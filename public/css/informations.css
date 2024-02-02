@@ -1,0 +1,29 @@
+body {
+    overflow-y: hidden;
+    background: #E4E4E4;
+}
+.main {
+    background-color: #E4E4E4;
+}
+.info_section {
+    margin: 100px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+}
+
+.champ {
+    border-style: solid;
+    border-color: #E4E4E4;
+    margin: 10px 10px 5px;
+}
+.validation {
+    border-style: none;
+    background-color: #2DCAC0;
+    color: white;
+    width: 50%;
+    text-align: center;
+    margin: 30px auto 80px;
+}

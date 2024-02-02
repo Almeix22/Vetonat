@@ -1,0 +1,20 @@
+.contacter
+{
+    margin: 1em;
+}
+
+.accordeon
+{
+    margin: 1em !important;
+}
+
+
+.accordeonVeto button
+{
+    background-color: #b2d3d1 !important;
+}
+
+.accordeonHeader
+{
+    background-color: #b2d3d1 !important;
+}

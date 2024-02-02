@@ -1,0 +1,96 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.Table
+{
+    background-color: #23ADA5 !important;
+
+}
+.corp {
+    background-color: #E4E4E4;
+}
+.tete_nav{
+    color: white !important;
+}
+
+
+.contact:hover{
+    background-color: #b2d3d1 !important;
+}
+
+.animal:hover{
+    background-color: #b2d3d1 !important;
+}
+
+.contact{
+    border-top:1px solid #eee !important;
+    background-color: #fff !important;
+    margin: 10px !important;
+    padding: 10px !important;
+}
+.animal{
+    border-top:1px solid #eee !important;
+    background-color: #fff !important;
+    margin: 10px !important;
+    padding: 10px !important;
+}
+
+.ClientAnimal
+{
+    color: white;
+}
+
+.boutonClientAnimal
+{
+    margin: 0 1em;
+    background-color: #2DCAC0 !important;
+    border: #2DCAC0 !important;
+    color:white !important;
+}
+
+.infoAnimal
+{
+    padding: 1em;
+}
+
+.ele
+{
+    margin: 0 0.5em;
+    display: inline;
+}
+
+.iconClientAnimal
+{
+    color: white;
+    font-size: 19px !important;
+}
+
+.infoAnimalCard
+{
+    margin: 2em 1em;
+}
+
+.consultation
+{
+    margin: 1em;
+}
+
+.motif
+{
+    text-align: center;
+    font-weight: bold;
+    margin: 1em;
+}
+
+.consultationCard:nth-child(odd){
+    background-color: #6cdcdc;
+    margin: 0.5em;
+    color: #2a2a2a;
+}
+.consultationCard:nth-child(even){
+    background-color: #71d9cc;
+    margin: 0.5em;
+    color: #2a2a2a;
+}
